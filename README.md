@@ -16,7 +16,7 @@
 
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank" style="text-decoration: none;">
     <img
-      src="https://img.shields.io/badge/%F0%9F%94%97%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
       height="55"
     />
@@ -24,7 +24,7 @@
 
   <a href="https://www.instagram.com/tu-usuario" target="_blank" style="text-decoration: none;">
     <img
-      src="https://img.shields.io/badge/%F0%9F%93%B8%20Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
       alt="Instagram"
       height="55"
     />
@@ -32,11 +32,30 @@
 
   <a href="https://tu-portafolio.com" target="_blank" style="text-decoration: none;">
     <img
-      src="https://img.shields.io/badge/%F0%9F%92%BC%20Portafolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"
+      src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white"
       alt="Portafolio"
       height="55"
     />
   </a>
+
+  <a href="https://orcid.org/tu-usuario" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://img.shields.io/badge/ORCID-00A0DE?style=for-the-badge&logo=orcid&logoColor=white"
+      alt="ORCID"
+      height="55"
+    />
+  </a>
+
+  <a href="https://www.patreon.com/tu-usuario" target="_blank" style="text-decoration: none;">
+    <img
+      src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"
+      alt="Patreon"
+      height="55"
+    />
+  </a>
+
+</div>
+  
 
 </div>
 
@@ -139,7 +158,3 @@
 <br>
 
 <p align="center"> ⋆˙⟡ ————————————————————————————————————————————————— ⟡˙⋆</p> 
-
-<p align="center"> "My mind is a maze of knots; my creation is the key that unties them. With technology, essence, and hands, I turn the problem into my masterpiece. I create to overcome the entanglement and make the unheard of palpable" <br><br> </p> 
-
-<p align="center"> ♡ </p>
