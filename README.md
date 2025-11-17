@@ -158,3 +158,7 @@
 <br>
 
 <p align="center"> ⋆˙⟡ ————————————————————————————————————————————————— ⟡˙⋆</p> 
+
+<p align="center"> "My mind is a maze of knots; my creation is the key that unties them. With technology, essence, and hands, I turn the problem into my masterpiece. I create to overcome the entanglement and make the unheard of palpable" <br><br> </p> 
+
+<p align="center"> ♡ </p>
