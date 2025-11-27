@@ -14,7 +14,7 @@
 
 <div align="center" style="display: flex; gap: 25px; justify-content: center; flex-wrap: wrap;">
 
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/alexandra-sierra1727" target="_blank" style="text-decoration: none;">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
       alt="LinkedIn"
