@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </div>
@@ -56,7 +57,6 @@
 
 </div>
   
-
 </div>
 
 ###
@@ -64,7 +64,7 @@
 
 ###
 
-<p align="center"> I’m a Frontend and Backend Developer from 🇨🇴 Colombia.<br><br> </p> 
+<p align="center"> I’m Full Stack Developer from 🇨🇴 Colombia.<br><br> </p> 
 
 <p align="left">
   ★ I’m currently exploring the vast world of programming and solving real-life problems.<br>
@@ -79,6 +79,8 @@
 ###
 
 <p align="center"> ⋆˙⟡  ———————————————— ˗ˏˋ ★ ˎˊ˗ ———————————————— ⟡˙⋆ </p>  
+
+<br>
 
 <h3 align="center" > ⋆ ˚｡⋆୨ My Proyects ୧⋆ ˚｡⋆ </h3>
 
@@ -110,7 +112,7 @@
 
 <br>
 
-| 🖼️ Frontend | ⚙️ Backend | 🗄️ Bases de datos | ☁️ DevOps / Infraestructura | 🛠️ Herramientas | 🎨 Diseño / Creatividad |
+| Frontend | Backend | Bases de datos | DevOps / Infraestructura | Herramientas | Diseño / Creatividad |
 |:----------:|:-----------:|:-----------------:|:---------------------------:|:---------------:|:------------------------:|
 | |
 
