@@ -85,11 +85,22 @@
 <h3 align="center" > ⋆ ˚｡⋆୨ My Proyects ୧⋆ ˚｡⋆ </h3>
 
 <br>
+<div align="center">
+
+| Project | Deploy | Repository |
+|---------|--------|------------|
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
+| Name Project | [Live Demo]() | [GitHub Repo]() |
 
 </div>
-
-
-<br>
+</br>
 
 ###
 
